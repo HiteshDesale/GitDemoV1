@@ -3,12 +3,12 @@ package demo1;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class sample1 
+public class sample2 
 {
 	//@Author by HiteshDesale team lead
 	public static void main(String[] args)
 	{
-		String sName="Hitesh";
+		String sName="Rahul";
 
 		if (sName == "Hitesh")
 		{
